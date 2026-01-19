@@ -1,0 +1,42 @@
+  const labLocations = {
+    watertown: {
+      name: 'Watertown, WI',
+      address: 'Rock River Laboratory\n710 Commerce Dr\nWatertown, WI 53094',
+    },
+    binghamton: {
+      name: 'Binghamton, NY',
+      address: 'Rock River Laboratory\n123 Main Street\nBinghamton, NY 13901',
+    },
+    colby: {
+      name: 'Colby, WI',
+      address: 'Rock River Laboratory\n456 Farm Road\nColby, WI 54421',
+    },
+    siouxfalls: {
+      name: 'Sioux Falls, SD',
+      address: 'Rock River Laboratory\n789 Prairie Ave\nSioux Falls, SD 57104',
+    },
+    visalia: {
+      name: 'Visalia, CA',
+      address: 'Rock River Laboratory\n321 Orchard St\nVisalia, CA 93291',
+    },
+    wooster: {
+      name: 'Wooster, OH',
+      address: 'Rock River Laboratory\n567 County Road\nWooster, OH 44691',
+    },
+    edmondson: {
+      name: 'Edmondson, TX',
+      address: 'Rock River Laboratory\n890 Ranch Drive\nEdmondson, TX 79032',
+    },
+    marne: {
+      name: 'Marne, MI',
+      address: 'Rock River Laboratory\n234 Lake Street\nMarne, MI 49435',
+    },
+    nampa: {
+      name: 'Nampa, ID',
+      address: 'Rock River Laboratory\n678 Valley Road\nNampa, ID 83651',
+    },
+    manheim: {
+      name: 'Manheim, PA',
+      address: 'Rock River Laboratory\n345 Lancaster Pike\nManheim, PA 17545',
+    },
+  };

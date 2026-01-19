@@ -1,0 +1,4 @@
+// Temporary file to help with the fix
+Line 605 currently has: 'bg-gray-50'}>\\n              <tr>
+Should be: 'bg-gray-50'}>
+              <tr>
